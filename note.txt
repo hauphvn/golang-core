@@ -1,0 +1,5 @@
+-----Slice--------
+Bien capacity cua slice co y nghia la de tang so luong phan tu cua slice theo
+cap so capacity
+Vi du : sliceInt co he so capacity = 5
+thi khi sliceInt bi full no se tu dong tang len the 5 phan tu nua
